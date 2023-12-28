@@ -6,13 +6,13 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
-Decleare number of words is 0
+Declare number of words is 0
 ### Step 2: 
-open it with words.txt file
+open it with file1.txt file
 ### Step 3: 
 Give range for i
 ### Step 4:  
-Then nxt split the words
+Then next split the words
 ### Step 5: 
 count the number of words
 ### Step 6: 
