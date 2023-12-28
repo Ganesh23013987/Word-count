@@ -31,9 +31,13 @@ with open("C:/Users/BSS/Documents/words.txt","r") as f1:
         num += len(word)
 print("The number of words are in the file is ",num)
 ```
+
+### File1.txt:
+<img width="308" alt="cmd line arg  in file" src="https://github.com/Ganesh23013987/Word-count/assets/147473768/d4ac8230-463c-43a9-81e6-96f979290b47">
+
 ### OUTPUT:
-![Alt text](<words count.png>)
-![Alt text](words.txt.png)
+<img width="475" alt="cmd line arg output" src="https://github.com/Ganesh23013987/Word-count/assets/147473768/b15a800b-e661-4b5a-9299-7161e0936d17">
+
 
 
 ## RESULT:
